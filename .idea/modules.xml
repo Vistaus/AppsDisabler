@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$USER_HOME$/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/AndroidStudioProjects-AppsDisabler.iml" filepath="$USER_HOME$/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/AndroidStudioProjects-AppsDisabler.iml" group="AppsDisabler" />
-      <module fileurl="file://$USER_HOME$/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/app/app.iml" filepath="$USER_HOME$/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/app/app.iml" group="AppsDisabler/app" />
-    </modules>
-  </component>
-</project>
