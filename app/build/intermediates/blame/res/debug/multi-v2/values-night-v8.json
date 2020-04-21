@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/oz/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/oz/.gradle/caches/transforms-2/files-2.1/73e3e42438cf0f4ce031354ab827e8c0/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,43",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "513,583,667,751,847,949,1051,3577",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "578,662,746,842,944,1046,1140,3661"
+                    }
+                },
+                {
+                    "source": "/home/oz/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "-1,8",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,278",
+                        "endLines": "-1,16",
+                        "endColumns": "-1,12",
+                        "endOffsets": "-1,843"
+                    },
+                    "to": {
+                        "startLines": "6,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "253,1145",
+                        "endLines": "10,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "508,1710"
+                    }
+                },
+                {
+                    "source": "/home/oz/Nextcloud/Dropbox/Dev/AndroidStudioProjects/AppsDisabler/app/src/main/res/values-night/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,157,208",
+                        "endColumns": "50,50,50,44",
+                        "endOffsets": "101,152,203,248"
+                    }
+                },
+                {
+                    "source": "/home/oz/.gradle/caches/transforms-2/files-2.1/e232c54f035d3665dbd8b6a9caeb399a/material-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1715,1803,1927,2029,2131,2247,2349,2463,2591,2707,2829,2965,3085,3219,3339,3451,3666,3804,3928,4058,4180,4318,4434",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1798,1922,2024,2126,2242,2344,2458,2586,2702,2824,2960,3080,3214,3334,3446,3572,3799,3923,4053,4175,4313,4429,4549"
+                    }
+                }
+            ]
+        }
+    ]
+}
